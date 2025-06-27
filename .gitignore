@@ -1,2 +1,5 @@
-# created by virtualenv automatically
-.env
+.venv/
+.idea/
+limit_data.txt
+*.env
+__pycache__/
