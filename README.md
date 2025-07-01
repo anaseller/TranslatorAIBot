@@ -57,6 +57,3 @@ TranslatorAIBot/
 ```
 
 
-## 📜 License
-
-MIT License
